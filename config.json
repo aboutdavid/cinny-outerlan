@@ -2,7 +2,7 @@
   "defaultHomeserver": 0,
   "homeserverList": [
     "chat.outernet",
-    "host.docker.internal:8004"
+    "host.docker.internal:8008"
   ],
   "allowCustomHomeservers": false
 }
